@@ -1,0 +1,6 @@
+node_modules/
+showreel/out/frames/
+showreel/out/still-*.png
+showreel/out/sheet*.png
+showreel/out/wave.png
+showreel/out/render.log
